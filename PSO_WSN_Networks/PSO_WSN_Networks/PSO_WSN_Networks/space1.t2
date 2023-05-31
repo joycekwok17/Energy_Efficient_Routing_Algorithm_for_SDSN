@@ -1,0 +1,17 @@
+##################Início do Treinamento##################
+
+Cenario = space1
+
+##########################################################################
+                           TESTE = 1                                    
+##########################################################################
+Configuracoes do PSO
+Numero de particulas = 30.000000
+Numero maximo de passos = 500.000000
+Dimensao do problema = 20.000000
+Coeficiente C1 = 2.000000
+Coeficiente C2 = 2.000000
+Inercia (wmax) = 0.900000 / (wmin) = 0.400000 
+
+pMax = 0.000000 / pMin = -30.000000
+vMax = 5.000000 / vMin = -5.000000
